@@ -1,4 +1,4 @@
-# 🔬 Ultra Bytecode Translator v8.0
+# 🔬 PyInstaller Fucker
 
 > Decompile Python `.pyc` bytecode back into readable source code — supporting Python 3.10 through 3.14.
 
